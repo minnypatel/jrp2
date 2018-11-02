@@ -1,0 +1,16 @@
+{
+  "extends": "airbnb",
+  "plugins": [
+      "react"
+  ],
+  "parserOptions": {
+    "ecmaVersion": 6,
+    "ecmaFeatures": {
+      "jsx": true
+    }
+  },
+  "rules": {
+    "quotes": [ 2, "single" ],
+    "indent": [ 2, 2 ]
+  }
+}
